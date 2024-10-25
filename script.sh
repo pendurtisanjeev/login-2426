@@ -9,7 +9,7 @@
 #sudo apt install -y nginx
 #
 #echo "remove samples pages"
-#sudo rm -rf /var/www/html/
+#sudo rm -rf /var/www/html
 #
 #echo "clone login app"
 #sudo git clone https://github.com/pendurtisanjeev/login-2426.git
